@@ -1,4 +1,4 @@
-# Forecasting_Gold_Prices_Using_Machine_Learning
+# Forecasting Gold Prices using Machine Learning
 
 This project aims to forecast the future prices of gold using various machine learning techniques. By analyzing historical data and employing advanced algorithms, the project seeks to provide accurate predictions for gold prices, enabling users to make informed decisions in the financial market. 
 
